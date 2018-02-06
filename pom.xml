@@ -11,5 +11,6 @@
 
     <modules>
         <module>chapter-1-introduction</module>
+        <module>chapter-2-building-microservices</module>
     </modules>
 </project>
