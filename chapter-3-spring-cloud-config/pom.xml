@@ -5,13 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rossmoug</groupId>
-    <artifactId>spring-microservices-in-action</artifactId>
+    <artifactId>chapter-3-spring-cloud-config</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>chapter-1-introduction</module>
-        <module>chapter-2-building-microservices</module>
-        <module>chapter-3-spring-cloud-config</module>
+        <module>chapter-3-config-server</module>
+        <module>chapter-3-license-service</module>
     </modules>
 </project>
