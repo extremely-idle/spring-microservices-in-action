@@ -1,0 +1,12 @@
+server:
+  port: 8888
+spring:
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
+        native:
+          searchLocations: file:///C:/Users/Ross/Documents/Programming/spring-microservices-in-action/chapter-3-spring-cloud-config/config-server/src/main/resources/license-service
