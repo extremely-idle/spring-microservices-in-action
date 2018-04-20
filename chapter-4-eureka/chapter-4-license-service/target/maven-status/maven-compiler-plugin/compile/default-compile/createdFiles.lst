@@ -1,0 +1,10 @@
+licenses\model\Organisation.class
+licenses\clients\OrganisationDiscoveryClient.class
+licenses\model\License.class
+licenses\clients\OrganisationRestTemplateClient.class
+licenses\services\LicenseService.class
+licenses\repository\LicenseRepository.class
+licenses\config\ServiceConfig.class
+licenses\clients\OrganisationFeignClient.class
+licenses\controllers\LicenseServiceController.class
+licenses\Application.class

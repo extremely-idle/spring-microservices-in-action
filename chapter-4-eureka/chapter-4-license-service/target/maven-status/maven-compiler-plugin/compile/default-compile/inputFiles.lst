@@ -1,0 +1,10 @@
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\model\License.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\clients\OrganisationFeignClient.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\controllers\LicenseServiceController.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\services\LicenseService.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\model\Organisation.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\clients\OrganisationDiscoveryClient.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\clients\OrganisationRestTemplateClient.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\config\ServiceConfig.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\repository\LicenseRepository.java
+C:\Users\Ross\Documents\Programming\spring-microservices-in-action\chapter-4-eureka\chapter-4-license-service\src\main\java\licenses\Application.java
