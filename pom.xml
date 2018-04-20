@@ -14,5 +14,6 @@
         <module>chapter-2-building-microservices</module>
         <module>chapter-3-spring-cloud-config</module>
         <module>chapter-4-eureka</module>
+        <module>chapter-5-hystrix</module>
     </modules>
 </project>
