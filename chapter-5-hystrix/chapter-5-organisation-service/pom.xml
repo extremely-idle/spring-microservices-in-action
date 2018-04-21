@@ -9,7 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>chapter-4-organisation-service</name>
+    <name>chapter-5-organisation-service</name>
     <description>Organization Service</description>
 
     <parent>

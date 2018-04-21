@@ -61,6 +61,19 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-netflix-core</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+        </dependency>
+        <!-- Would usually need to set hystrix-javanica as a dependency as
+             this is managed by spring-cloud-starter-hystrix but there was
+             a breaking change in the version of hystrix-javanica used by
+             spring-cloud Camden.SR5 -->
+        <dependency>
+            <groupId>com.netflix.hystrix</groupId>
+            <artifactId>hystrix-javanica</artifactId>
+            <version>1.5.9</version>
+        </dependency>
 
         <!-- DB Drivers -->
         <dependency>
