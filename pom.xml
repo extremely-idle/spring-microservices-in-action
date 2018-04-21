@@ -15,5 +15,6 @@
         <module>chapter-3-spring-cloud-config</module>
         <module>chapter-4-eureka</module>
         <module>chapter-5-hystrix</module>
+        <module>chapter-6-routing</module>
     </modules>
 </project>
